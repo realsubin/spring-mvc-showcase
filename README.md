@@ -1,3 +1,5 @@
+[ ![Codeship Status for realsubin/spring-mvc-showcase](https://codeship.com/projects/dbf25720-5a92-0133-ec01-624f61fe64ff/status?branch=master)](https://codeship.com/projects/110462)
+
 Spring MVC Showcase
 -------------------
 Demonstrates the capabilities of the Spring MVC web framework through small, simple examples.
